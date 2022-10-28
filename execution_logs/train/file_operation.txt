@@ -5,3 +5,17 @@
 2022-10-28/21:44:33		read the data from artifacts/raw_local_data_dir/data.csv
 2022-10-28/21:44:33		split the train & test data based on (0.2, 42)
 2022-10-28/21:44:33		store the data in ('artifacts/processed_data/train.csv', 'artifacts/processed_data/test.csv')
+2022-10-28/22:23:23		delete the artifacts directory if it is previously created
+2022-10-28/22:23:23		create the ('artifacts', 'artifacts/raw_local_data_dir') directories to store the data in local
+2022-10-28/22:23:23		save the data in artifacts/raw_local_data_dir/data.csv 
+2022-10-28/22:23:23		create the directory artifacts/processed_data to store the train & test data
+2022-10-28/22:23:23		read the data from artifacts/raw_local_data_dir/data.csv
+2022-10-28/22:23:23		split the train & test data based on split_ratio:0.2, random_state:42
+2022-10-28/22:23:23		store the data in ('artifacts/processed_data/train.csv', 'artifacts/processed_data/test.csv')
+2022-10-28/22:25:37		delete the artifacts directory if it is previously created
+2022-10-28/22:25:37		create the ('artifacts', 'artifacts/raw_local_data_dir') directories to store the data in local
+2022-10-28/22:25:37		save the data in artifacts/raw_local_data_dir/data.csv 
+2022-10-28/22:25:37		create the directory artifacts/processed_data to store the train & test data
+2022-10-28/22:25:37		read the data from artifacts/raw_local_data_dir/data.csv
+2022-10-28/22:25:37		split the train & test data based on split_ratio:0.2, random_state:42
+2022-10-28/22:25:38		store the data in ('artifacts/processed_data/train.csv', 'artifacts/processed_data/test.csv')

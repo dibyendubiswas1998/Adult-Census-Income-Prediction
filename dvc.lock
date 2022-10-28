@@ -1,0 +1,28 @@
+schema: '2.0'
+stages:
+  load_and_split_data:
+    cmd: python main.py --config=params.yaml
+    deps:
+    - path: load_and_split_data/load_split.py
+      md5: 196acd346f23dbc0726d5003cf79d57e
+      size: 5313
+    params:
+      params.yaml:
+        artifacts.raw_local_data: artifacts/raw_local_data_dir/data.csv
+        artifacts.raw_local_data_dir: artifacts/raw_local_data_dir
+        artifacts.split_data.processed_data_dir: artifacts/processed_data
+        artifacts.split_data.test_path: artifacts/processed_data/test.csv
+        artifacts.split_data.train_path: artifacts/processed_data/train.csv
+        base.random_state: 42
+        base.test_size: 0.2
+        data_source.github_url: https://raw.githubusercontent.com/dibyendubiswas1998/Adult-Census-Income-Prediction/main/DATA/adult_new.csv
+    outs:
+    - path: artifacts/processed_data/test.csv
+      md5: 57397cb830ea812ac0cc9f847f6042cc
+      size: 611971
+    - path: artifacts/processed_data/train.csv
+      md5: a48c328783c04f57e04631c692e23fc2
+      size: 2448347
+    - path: artifacts/raw_local_data_dir/data.csv
+      md5: dc0a2c67d494bd1b7a1ff39a1079f63d
+      size: 3060189
