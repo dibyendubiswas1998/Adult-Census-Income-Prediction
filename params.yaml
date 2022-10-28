@@ -10,17 +10,20 @@ data_source:
 # it helps to store the raw data, train & test dataset.
 artifacts:
   artifacts_dir: artifacts # create the "artifacts" directory
-  raw_local_data_dir: artifacts/raw_local_data_dir # create the "raw_local_data_dir" directory
+  raw_local_data_dir: artifacts/raw_local_data_dir # create/use the "raw_local_data_dir" directory
   raw_local_data: artifacts/raw_local_data_dir/data.csv # load/save raw data
 
   split_data: # helps to perform the splitting operations
-    processed_data_dir: artifacts/processed_data # create the "processed_data" directory
+    processed_data_dir: artifacts/processed_data # create/use the "processed_data" directory
     train_path: artifacts/processed_data/train.csv # save/load the train dataset
     test_path: artifacts/processed_data/test.csv # save/load the test dataset
 
 # it helps to logs the informations.
 execution_logs:
-  execution_logs_dir: execution_logs # create the "execution_log" directory
-  train:
-    train_dir: execution_logs/train # create the "train" directory
-    file_operation: execution_logs/train/file_operation.txt # create/write/read the "file_operation.txt" file
+  execution_logs_dir: execution_logs # create/use the "execution_log" directory
+  training:
+    train_dir: execution_logs/train # create/use the "train" directory
+    log_files:
+      file_operation: execution_logs/train/file_operation.txt # create/write/read the "file_operation.txt" file
+
+
