@@ -7,9 +7,14 @@ if __name__ == "__main__":
     parsed_args = args.parse_args()
 
     try:
+        # stages: load_and_split_data
         lo = load_split(config_path=parsed_args.config)
         lo.load_and_save_data()
         lo.split_data()
+
+
+        # stages: training_raw_data_validation
+
 
     except Exception as ex:
         raise ex

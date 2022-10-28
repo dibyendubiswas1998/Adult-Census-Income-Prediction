@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "origin"']
+    url = https://github.com/dibyendubiswas1998/Adult-Census-Income-Prediction.git
+['remote "storage"']
+    url = gdrive://1fPWcUP5mm3smp9Dz60NtuO2CsREEdL5W

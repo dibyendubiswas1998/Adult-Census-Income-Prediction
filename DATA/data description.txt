@@ -1,0 +1,54 @@
+workclass:
+array(['state_gov', 'self_emp_not_inc', 'private', 'federal_gov',
+       'unknown', 'self_emp_inc', 'without_pay', 'not_working'],
+      dtype=object)
+
+
+education:
+array(['bachelors', 'hs_grad', 'master', 'below_hs_grad', 'associate',
+       'doctorate'], dtype=object)
+
+
+marital-status:
+array(['unmarried', 'married', 'divorced', 'separated', 'widowed'],
+      dtype=object)
+
+
+occupation:
+array(['adm-clerical', 'exec-managerial', 'handlers-cleaners',
+       'prof-specialty', 'other-service', 'sales', 'craft-repair',
+       'transport-moving', 'farming-fishing', 'machine-op-inspct',
+       'tech-support', 'unknown', 'protective-serv', 'armed-forces',
+       'priv-house-serv'], dtype=object)
+
+
+relationship:
+array(['other_relative', 'husband', 'wife', 'child'], dtype=object)
+
+
+race:
+array(['white', 'black', 'asian_pac_islander', 'amer_indian_eskimo',
+       'other'], dtype=object)
+
+
+sex:
+array(['male', 'female'], dtype=object)
+
+
+country:
+array(['united-states', 'cuba', 'jamaica', 'india', '?', 'mexico',
+       'south', 'puerto-rico', 'honduras', 'england', 'canada', 'germany',
+       'iran', 'philippines', 'italy', 'poland', 'columbia', 'cambodia',
+       'thailand', 'ecuador', 'laos', 'taiwan', 'haiti', 'portugal',
+       'dominican-republic', 'el-salvador', 'france', 'guatemala',
+       'china', 'japan', 'yugoslavia', 'peru',
+       'outlying-us(guam-usvi-etc)', 'scotland', 'trinadad&tobago',
+       'greece', 'nicaragua', 'vietnam', 'hong', 'ireland', 'hungary',
+       'holand-netherlands'], dtype=object)
+
+
+salary:
+array(['<=50k', '>50k'], dtype=object)
+
+
+

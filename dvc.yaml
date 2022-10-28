@@ -16,3 +16,6 @@ stages:
       - artifacts/raw_local_data_dir/data.csv
       - artifacts/processed_data/train.csv
       - artifacts/processed_data/test.csv
+
+  training_raw_data_validation:
+    cmd: python main.py --config=params.yaml

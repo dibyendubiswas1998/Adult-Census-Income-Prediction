@@ -1,0 +1,19 @@
+# dvc
+dvc
+dvc[gdrive]
+
+
+# other important lib
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+
+# testing
+pytest
+flake8
+
+# webapp
+flask
