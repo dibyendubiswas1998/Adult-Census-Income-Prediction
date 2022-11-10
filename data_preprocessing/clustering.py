@@ -82,7 +82,8 @@ class KMeans_Clustering:
             common_utils.create_dir([self.model_dir, self.Kmeans_dir]) # create the model & KMeans directory
             common_utils.save_model(model=self.kmeans, model_path=self.Kmeans_path) # save the model
             self.y_kmeans = self.kmeans.fit_predict(self.data)  # predict the cluster labels
-            self.data['cluster_label'] = self.y_kmeans  # attach the cluster labels with the given data
+            self.cluster_label = self.config['preProcessing']['kmeans_clustering']['cluster_label']  # get the cluster label name
+            self.data[self.cluster_label] = self.y_kmeans  # attach the cluster labels with the given data
             self.cluster_data_dir = self.config['preProcessing']['kmeans_clustering']['cluster_data_dir'] # mention the cluster_dasta directory
             self.cluster_data_path = self.config['preProcessing']['kmeans_clustering']['cluster_data_path'] # mention cluster_data_path
             common_utils.create_dir([self.cluster_data_dir]) # create the cluster data directory
