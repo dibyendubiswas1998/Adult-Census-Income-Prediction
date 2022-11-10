@@ -1,0 +1,256 @@
+2022-11-10/00:04:49		start the validation before training
+2022-11-10/00:04:52		load & split the data
+2022-11-10/00:04:52		read the data
+2022-11-10/00:04:52		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/00:04:52		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/00:04:52		Get the length of data (26048, 13)
+2022-11-10/00:04:52		Get the columns where missing value is present None
+2022-11-10/00:04:52		Data is not balanced
+2022-11-10/00:04:52		Remove the duplicate values from data set
+2022-11-10/00:04:52		Apply the label encoding on salary & sex column
+2022-11-10/00:04:52		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/00:04:52		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/00:04:54		Balanced the data
+2022-11-10/00:04:54		Handle the outliers on age
+2022-11-10/00:04:54		Handle the outliers on capital-gain
+2022-11-10/00:04:54		Handle the outliers on capital-loss
+2022-11-10/00:04:54		Handle the outliers on hours-per-week
+2022-11-10/00:04:54		Handle the outliers on workclass_mean_encoding
+2022-11-10/00:04:54		Handle the outliers on education_mean_encoding
+2022-11-10/00:04:54		Handle the outliers on race_mean_encoding
+2022-11-10/00:04:54		Handle the outliers on country_mean_encoding
+2022-11-10/00:06:21		start the validation before training
+2022-11-10/00:06:23		load & split the data
+2022-11-10/00:06:24		read the data
+2022-11-10/00:06:24		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/00:06:24		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/00:06:24		Get the length of data (26048, 13)
+2022-11-10/00:06:24		Get the columns where missing value is present None
+2022-11-10/00:06:24		Data is not balanced
+2022-11-10/00:06:24		Remove the duplicate values from data set
+2022-11-10/00:06:24		Apply the label encoding on salary & sex column
+2022-11-10/00:06:24		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/00:06:24		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/00:06:26		Balanced the data
+2022-11-10/00:06:26		Handle the outliers on age
+2022-11-10/00:06:26		Handle the outliers on capital-gain
+2022-11-10/00:06:26		Handle the outliers on capital-loss
+2022-11-10/00:06:26		Handle the outliers on hours-per-week
+2022-11-10/00:06:26		Handle the outliers on workclass_mean_encoding
+2022-11-10/00:06:26		Handle the outliers on education_mean_encoding
+2022-11-10/00:06:26		Handle the outliers on race_mean_encoding
+2022-11-10/00:06:26		Handle the outliers on country_mean_encoding
+2022-11-10/18:25:38		start the validation before training
+2022-11-10/18:25:42		load & split the data
+2022-11-10/18:25:42		read the data
+2022-11-10/18:25:42		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:25:42		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:25:42		Get the length of data (26048, 13)
+2022-11-10/18:25:42		Get the columns where missing value is present None
+2022-11-10/18:25:42		Data is not balanced
+2022-11-10/18:25:42		Remove the duplicate values from data set
+2022-11-10/18:25:43		Apply the label encoding on salary & sex column
+2022-11-10/18:25:43		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:25:43		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:25:45		Balanced the data
+2022-11-10/18:25:45		Handle the outliers on age
+2022-11-10/18:25:45		Handle the outliers on capital-gain
+2022-11-10/18:25:45		Handle the outliers on capital-loss
+2022-11-10/18:25:45		Handle the outliers on hours-per-week
+2022-11-10/18:25:45		Handle the outliers on workclass_mean_encoding
+2022-11-10/18:25:45		Handle the outliers on education_mean_encoding
+2022-11-10/18:25:45		Handle the outliers on race_mean_encoding
+2022-11-10/18:25:45		Handle the outliers on country_mean_encoding
+2022-11-10/18:26:23		start the validation before training
+2022-11-10/18:26:26		load & split the data
+2022-11-10/18:26:26		read the data
+2022-11-10/18:26:26		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:26:26		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:26:26		Get the length of data (26048, 13)
+2022-11-10/18:26:26		Get the columns where missing value is present None
+2022-11-10/18:26:26		Data is not balanced
+2022-11-10/18:26:26		Remove the duplicate values from data set
+2022-11-10/18:26:26		Apply the label encoding on salary & sex column
+2022-11-10/18:26:26		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:26:26		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:26:28		Balanced the data
+2022-11-10/18:26:28		Handle the outliers on age
+2022-11-10/18:26:28		Handle the outliers on capital-gain
+2022-11-10/18:26:28		Handle the outliers on capital-loss
+2022-11-10/18:26:28		Handle the outliers on hours-per-week
+2022-11-10/18:26:28		Handle the outliers on workclass_mean_encoding
+2022-11-10/18:26:28		Handle the outliers on education_mean_encoding
+2022-11-10/18:26:28		Handle the outliers on race_mean_encoding
+2022-11-10/18:26:28		Handle the outliers on country_mean_encoding
+2022-11-10/18:27:15		start the validation before training
+2022-11-10/18:27:19		load & split the data
+2022-11-10/18:27:20		read the data
+2022-11-10/18:27:20		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:27:20		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:27:20		Get the length of data (26048, 13)
+2022-11-10/18:27:20		Get the columns where missing value is present None
+2022-11-10/18:27:20		Data is not balanced
+2022-11-10/18:27:20		Remove the duplicate values from data set
+2022-11-10/18:27:20		Apply the label encoding on salary & sex column
+2022-11-10/18:27:20		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:28:08		start the validation before training
+2022-11-10/18:28:11		load & split the data
+2022-11-10/18:28:11		read the data
+2022-11-10/18:28:11		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:28:11		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:28:11		Get the length of data (26048, 13)
+2022-11-10/18:28:11		Get the columns where missing value is present None
+2022-11-10/18:28:11		Data is not balanced
+2022-11-10/18:28:11		Remove the duplicate values from data set
+2022-11-10/18:28:11		Apply the label encoding on salary & sex column
+2022-11-10/18:28:11		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:28:11		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:28:37		start the validation before training
+2022-11-10/18:28:40		load & split the data
+2022-11-10/18:28:40		read the data
+2022-11-10/18:28:40		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:28:40		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:28:40		Get the length of data (26048, 13)
+2022-11-10/18:28:40		Get the columns where missing value is present None
+2022-11-10/18:28:40		Data is not balanced
+2022-11-10/18:28:40		Remove the duplicate values from data set
+2022-11-10/18:28:40		Apply the label encoding on salary & sex column
+2022-11-10/18:28:40		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:28:40		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:28:42		Balanced the data
+2022-11-10/18:29:29		start the validation before training
+2022-11-10/18:29:36		load & split the data
+2022-11-10/18:29:36		read the data
+2022-11-10/18:29:36		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:29:36		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:29:36		Get the length of data (26048, 13)
+2022-11-10/18:29:36		Get the columns where missing value is present None
+2022-11-10/18:29:36		Data is not balanced
+2022-11-10/18:29:36		Remove the duplicate values from data set
+2022-11-10/18:29:36		Apply the label encoding on salary & sex column
+2022-11-10/18:29:36		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:29:36		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:29:38		Balanced the data
+2022-11-10/18:30:24		start the validation before training
+2022-11-10/18:30:27		load & split the data
+2022-11-10/18:30:27		read the data
+2022-11-10/18:30:27		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:30:27		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:30:27		Get the length of data (26048, 13)
+2022-11-10/18:30:27		Get the columns where missing value is present None
+2022-11-10/18:30:27		Data is not balanced
+2022-11-10/18:30:28		Remove the duplicate values from data set
+2022-11-10/18:30:28		Apply the label encoding on salary & sex column
+2022-11-10/18:30:28		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:30:28		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:30:30		Balanced the data
+2022-11-10/18:30:30		Handle the outliers on age
+2022-11-10/18:30:30		Handle the outliers on capital-gain
+2022-11-10/18:30:30		Handle the outliers on capital-loss
+2022-11-10/18:30:30		Handle the outliers on hours-per-week
+2022-11-10/18:30:30		Handle the outliers on workclass_mean_encoding
+2022-11-10/18:30:30		Handle the outliers on education_mean_encoding
+2022-11-10/18:30:30		Handle the outliers on race_mean_encoding
+2022-11-10/18:30:30		Handle the outliers on country_mean_encoding
+2022-11-10/18:31:29		start the validation before training
+2022-11-10/18:31:32		load & split the data
+2022-11-10/18:31:32		read the data
+2022-11-10/18:31:32		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:31:32		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:31:32		Get the length of data (26048, 13)
+2022-11-10/18:31:32		Get the columns where missing value is present None
+2022-11-10/18:31:32		Data is not balanced
+2022-11-10/18:31:32		Remove the duplicate values from data set
+2022-11-10/18:31:32		Apply the label encoding on salary & sex column
+2022-11-10/18:31:32		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:31:32		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:31:34		Balanced the data
+2022-11-10/18:35:03		start the validation before training
+2022-11-10/18:35:09		load & split the data
+2022-11-10/18:35:09		read the data
+2022-11-10/18:35:09		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:35:09		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:35:09		Get the length of data (26048, 13)
+2022-11-10/18:35:09		Get the columns where missing value is present None
+2022-11-10/18:35:09		Data is not balanced
+2022-11-10/18:35:09		Remove the duplicate values from data set
+2022-11-10/18:35:09		Apply the label encoding on salary & sex column
+2022-11-10/18:35:10		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:35:10		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:35:12		Balanced the data
+2022-11-10/18:35:12		Handle the outliers on age
+2022-11-10/18:35:12		Handle the outliers on capital-gain
+2022-11-10/18:35:12		Handle the outliers on capital-loss
+2022-11-10/18:35:12		Handle the outliers on hours-per-week
+2022-11-10/18:35:12		Handle the outliers on workclass_mean_encoding
+2022-11-10/18:35:12		Handle the outliers on education_mean_encoding
+2022-11-10/18:35:12		Handle the outliers on race_mean_encoding
+2022-11-10/18:35:12		Handle the outliers on country_mean_encoding
+2022-11-10/18:42:18		start the validation before training
+2022-11-10/18:42:21		load & split the data
+2022-11-10/18:42:21		read the data
+2022-11-10/18:42:21		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:42:21		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:42:21		Get the length of data (26048, 13)
+2022-11-10/18:42:21		Get the columns where missing value is present None
+2022-11-10/18:42:21		Data is not balanced
+2022-11-10/18:42:21		Remove the duplicate values from data set
+2022-11-10/18:42:21		Apply the label encoding on salary & sex column
+2022-11-10/18:42:21		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:42:21		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:42:23		Balanced the data
+2022-11-10/18:42:23		Handle the outliers on age
+2022-11-10/18:42:24		Handle the outliers on capital-gain
+2022-11-10/18:42:24		Handle the outliers on capital-loss
+2022-11-10/18:42:24		Handle the outliers on hours-per-week
+2022-11-10/18:42:24		Handle the outliers on workclass_mean_encoding
+2022-11-10/18:42:24		Handle the outliers on education_mean_encoding
+2022-11-10/18:42:24		Handle the outliers on race_mean_encoding
+2022-11-10/18:42:24		Handle the outliers on country_mean_encoding
+2022-11-10/18:46:50		start the validation before training
+2022-11-10/18:46:52		load & split the data
+2022-11-10/18:46:52		read the data
+2022-11-10/18:46:52		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/18:46:52		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/18:46:52		Get the length of data (26048, 13)
+2022-11-10/18:46:53		Get the columns where missing value is present None
+2022-11-10/18:46:53		Data is not balanced
+2022-11-10/18:46:53		Remove the duplicate values from data set
+2022-11-10/18:46:53		Apply the label encoding on salary & sex column
+2022-11-10/18:46:53		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/18:46:53		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns
+2022-11-10/18:46:55		Balanced the data
+2022-11-10/18:46:55		Handle the outliers on age
+2022-11-10/18:46:55		Handle the outliers on capital-gain
+2022-11-10/18:46:55		Handle the outliers on capital-loss
+2022-11-10/18:46:55		Handle the outliers on hours-per-week
+2022-11-10/18:46:55		Handle the outliers on workclass_mean_encoding
+2022-11-10/18:46:55		Handle the outliers on education_mean_encoding
+2022-11-10/18:46:55		Handle the outliers on race_mean_encoding
+2022-11-10/18:46:55		Handle the outliers on country_mean_encoding

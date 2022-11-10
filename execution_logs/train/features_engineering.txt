@@ -1,0 +1,530 @@
+2022-11-08/22:05:40		successfully apply the Label Encoding technique
+2022-11-08/22:05:40		successfully apply the Label Encoding technique
+2022-11-08/22:05:40		Applying the mean encoding on column workclass
+2022-11-08/22:05:40		Applying the mean encoding on column education
+2022-11-08/22:05:40		Applying the mean encoding on column marital-status
+2022-11-08/22:05:40		Applying the mean encoding on column occupation
+2022-11-08/22:05:40		Applying the mean encoding on column relationship
+2022-11-08/22:05:40		Applying the mean encoding on column race
+2022-11-08/22:05:40		Applying the mean encoding on column country
+2022-11-08/22:05:40		Replace the value with mean, in age
+2022-11-08/22:05:40		Replace the value with mean, in capital-gain
+2022-11-08/22:05:40		Replace the value with mean, in capital-loss
+2022-11-08/22:05:40		Replace the value with mean, in hours-per-week
+2022-11-08/22:05:42		Handle the imbalanced data using Borderline-SMOTE
+2022-11-08/22:06:46		successfully apply the Label Encoding technique
+2022-11-08/22:06:47		successfully apply the Label Encoding technique
+2022-11-08/22:06:47		Applying the mean encoding on column workclass
+2022-11-08/22:06:47		Applying the mean encoding on column education
+2022-11-08/22:06:47		Applying the mean encoding on column marital-status
+2022-11-08/22:06:47		Applying the mean encoding on column occupation
+2022-11-08/22:06:47		Applying the mean encoding on column relationship
+2022-11-08/22:06:47		Applying the mean encoding on column race
+2022-11-08/22:06:47		Applying the mean encoding on column country
+2022-11-08/22:06:47		Replace the value with mean, in age
+2022-11-08/22:06:47		Replace the value with mean, in capital-gain
+2022-11-08/22:06:47		Replace the value with mean, in capital-loss
+2022-11-08/22:06:47		Replace the value with mean, in hours-per-week
+2022-11-08/22:06:49		Handle the imbalanced data using Borderline-SMOTE
+2022-11-08/22:09:15		successfully apply the Label Encoding technique
+2022-11-08/22:09:15		successfully apply the Label Encoding technique
+2022-11-08/22:09:15		Applying the mean encoding on column workclass
+2022-11-08/22:09:15		Applying the mean encoding on column education
+2022-11-08/22:09:15		Applying the mean encoding on column marital-status
+2022-11-08/22:09:15		Applying the mean encoding on column occupation
+2022-11-08/22:09:15		Applying the mean encoding on column relationship
+2022-11-08/22:09:15		Applying the mean encoding on column race
+2022-11-08/22:09:15		Applying the mean encoding on column country
+2022-11-08/22:09:15		Replace the value with mean, in age
+2022-11-08/22:09:15		Replace the value with mean, in capital-gain
+2022-11-08/22:09:15		Replace the value with mean, in capital-loss
+2022-11-08/22:09:15		Replace the value with mean, in hours-per-week
+2022-11-08/22:09:18		Handle the imbalanced data using Borderline-SMOTE
+2022-11-08/22:16:48		successfully apply the Label Encoding technique
+2022-11-08/22:16:48		successfully apply the Label Encoding technique
+2022-11-08/22:16:48		Applying the mean encoding on column workclass
+2022-11-08/22:16:48		Applying the mean encoding on column education
+2022-11-08/22:16:48		Applying the mean encoding on column marital-status
+2022-11-08/22:16:48		Applying the mean encoding on column occupation
+2022-11-08/22:16:48		Applying the mean encoding on column relationship
+2022-11-08/22:16:48		Applying the mean encoding on column race
+2022-11-08/22:16:48		Applying the mean encoding on column country
+2022-11-08/22:16:48		Replace the value with mean, in age
+2022-11-08/22:16:48		Replace the value with mean, in capital-gain
+2022-11-08/22:16:48		Replace the value with mean, in capital-loss
+2022-11-08/22:16:48		Replace the value with mean, in hours-per-week
+2022-11-08/22:16:51		Handle the imbalanced data using Borderline-SMOTE
+2022-11-08/22:18:37		successfully apply the Label Encoding technique
+2022-11-08/22:18:37		successfully apply the Label Encoding technique
+2022-11-08/22:18:37		Applying the mean encoding on column workclass
+2022-11-08/22:18:37		Applying the mean encoding on column education
+2022-11-08/22:18:37		Applying the mean encoding on column marital-status
+2022-11-08/22:18:37		Applying the mean encoding on column occupation
+2022-11-08/22:18:37		Applying the mean encoding on column relationship
+2022-11-08/22:18:37		Applying the mean encoding on column race
+2022-11-08/22:18:37		Applying the mean encoding on column country
+2022-11-08/22:18:37		Replace the value with mean, in age
+2022-11-08/22:18:37		Replace the value with mean, in capital-gain
+2022-11-08/22:18:37		Replace the value with mean, in capital-loss
+2022-11-08/22:18:37		Replace the value with mean, in hours-per-week
+2022-11-08/22:18:39		Handle the imbalanced data using Borderline-SMOTE
+2022-11-08/22:23:03		successfully apply the Label Encoding technique
+2022-11-08/22:23:03		successfully apply the Label Encoding technique
+2022-11-08/22:23:03		Applying the mean encoding on column workclass
+2022-11-08/22:23:03		Applying the mean encoding on column education
+2022-11-08/22:23:03		Applying the mean encoding on column marital-status
+2022-11-08/22:23:03		Applying the mean encoding on column occupation
+2022-11-08/22:23:03		Applying the mean encoding on column relationship
+2022-11-08/22:23:03		Applying the mean encoding on column race
+2022-11-08/22:23:03		Applying the mean encoding on column country
+2022-11-08/22:23:03		Replace the value with mean, in age
+2022-11-08/22:23:03		Replace the value with mean, in capital-gain
+2022-11-08/22:23:03		Replace the value with mean, in capital-loss
+2022-11-08/22:23:03		Replace the value with mean, in hours-per-week
+2022-11-08/22:23:06		Handle the imbalanced data using Borderline-SMOTE
+2022-11-08/22:31:27		successfully apply the Label Encoding technique
+2022-11-08/22:31:27		successfully apply the Label Encoding technique
+2022-11-08/22:31:27		Applying the mean encoding on column workclass
+2022-11-08/22:31:27		Applying the mean encoding on column education
+2022-11-08/22:31:27		Applying the mean encoding on column marital-status
+2022-11-08/22:31:27		Applying the mean encoding on column occupation
+2022-11-08/22:31:27		Applying the mean encoding on column relationship
+2022-11-08/22:31:27		Applying the mean encoding on column race
+2022-11-08/22:31:28		Applying the mean encoding on column country
+2022-11-08/22:31:28		Replace the value with mean, in age
+2022-11-08/22:31:28		Replace the value with mean, in capital-gain
+2022-11-08/22:31:28		Replace the value with mean, in capital-loss
+2022-11-08/22:31:28		Replace the value with mean, in hours-per-week
+2022-11-08/22:31:30		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/19:58:18		successfully apply the Label Encoding technique
+2022-11-09/19:58:18		successfully apply the Label Encoding technique
+2022-11-09/19:58:18		Applying the mean encoding on column workclass
+2022-11-09/19:58:18		Applying the mean encoding on column education
+2022-11-09/19:58:18		Applying the mean encoding on column marital-status
+2022-11-09/19:58:18		Applying the mean encoding on column occupation
+2022-11-09/19:58:18		Applying the mean encoding on column relationship
+2022-11-09/19:58:18		Applying the mean encoding on column race
+2022-11-09/19:58:18		Applying the mean encoding on column country
+2022-11-09/19:58:18		Replace the value with mean, in age
+2022-11-09/19:58:18		Replace the value with mean, in capital-gain
+2022-11-09/19:58:18		Replace the value with mean, in capital-loss
+2022-11-09/19:58:18		Replace the value with mean, in hours-per-week
+2022-11-09/19:58:20		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/19:59:10		successfully apply the Label Encoding technique
+2022-11-09/19:59:10		successfully apply the Label Encoding technique
+2022-11-09/19:59:10		Applying the mean encoding on column workclass
+2022-11-09/19:59:10		Applying the mean encoding on column education
+2022-11-09/19:59:10		Applying the mean encoding on column marital-status
+2022-11-09/19:59:10		Applying the mean encoding on column occupation
+2022-11-09/19:59:10		Applying the mean encoding on column relationship
+2022-11-09/19:59:10		Applying the mean encoding on column race
+2022-11-09/19:59:10		Applying the mean encoding on column country
+2022-11-09/19:59:10		Replace the value with mean, in age
+2022-11-09/19:59:10		Replace the value with mean, in capital-gain
+2022-11-09/19:59:10		Replace the value with mean, in capital-loss
+2022-11-09/19:59:10		Replace the value with mean, in hours-per-week
+2022-11-09/19:59:13		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/20:00:01		successfully apply the Label Encoding technique
+2022-11-09/20:00:01		successfully apply the Label Encoding technique
+2022-11-09/20:00:01		Applying the mean encoding on column workclass
+2022-11-09/20:00:01		Applying the mean encoding on column education
+2022-11-09/20:00:01		Applying the mean encoding on column marital-status
+2022-11-09/20:00:01		Applying the mean encoding on column occupation
+2022-11-09/20:00:01		Applying the mean encoding on column relationship
+2022-11-09/20:00:01		Applying the mean encoding on column race
+2022-11-09/20:00:01		Applying the mean encoding on column country
+2022-11-09/20:00:01		Replace the value with mean, in age
+2022-11-09/20:00:01		Replace the value with mean, in capital-gain
+2022-11-09/20:00:01		Replace the value with mean, in capital-loss
+2022-11-09/20:00:01		Replace the value with mean, in hours-per-week
+2022-11-09/20:00:05		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/20:00:29		successfully apply the Label Encoding technique
+2022-11-09/20:00:29		successfully apply the Label Encoding technique
+2022-11-09/20:00:29		Applying the mean encoding on column workclass
+2022-11-09/20:00:29		Applying the mean encoding on column education
+2022-11-09/20:00:29		Applying the mean encoding on column marital-status
+2022-11-09/20:00:29		Applying the mean encoding on column occupation
+2022-11-09/20:00:29		Applying the mean encoding on column relationship
+2022-11-09/20:00:29		Applying the mean encoding on column race
+2022-11-09/20:00:29		Applying the mean encoding on column country
+2022-11-09/20:00:29		Replace the value with mean, in age
+2022-11-09/20:00:29		Replace the value with mean, in capital-gain
+2022-11-09/20:00:29		Replace the value with mean, in capital-loss
+2022-11-09/20:00:29		Replace the value with mean, in hours-per-week
+2022-11-09/20:00:32		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/20:03:00		successfully apply the Label Encoding technique
+2022-11-09/20:03:00		successfully apply the Label Encoding technique
+2022-11-09/20:03:00		Applying the mean encoding on column workclass
+2022-11-09/20:03:00		Applying the mean encoding on column education
+2022-11-09/20:03:00		Applying the mean encoding on column marital-status
+2022-11-09/20:03:00		Applying the mean encoding on column occupation
+2022-11-09/20:03:00		Applying the mean encoding on column relationship
+2022-11-09/20:03:00		Applying the mean encoding on column race
+2022-11-09/20:03:00		Applying the mean encoding on column country
+2022-11-09/20:03:00		Replace the value with mean, in age
+2022-11-09/20:03:00		Replace the value with mean, in capital-gain
+2022-11-09/20:03:00		Replace the value with mean, in capital-loss
+2022-11-09/20:03:00		Replace the value with mean, in hours-per-week
+2022-11-09/20:03:03		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/20:09:27		successfully apply the Label Encoding technique
+2022-11-09/20:09:28		successfully apply the Label Encoding technique
+2022-11-09/20:09:28		Applying the mean encoding on column workclass
+2022-11-09/20:09:28		Applying the mean encoding on column education
+2022-11-09/20:09:28		Applying the mean encoding on column marital-status
+2022-11-09/20:09:28		Applying the mean encoding on column occupation
+2022-11-09/20:09:28		Applying the mean encoding on column relationship
+2022-11-09/20:09:28		Applying the mean encoding on column race
+2022-11-09/20:09:28		Applying the mean encoding on column country
+2022-11-09/20:09:28		Replace the value with mean, in age
+2022-11-09/20:09:28		Replace the value with mean, in capital-gain
+2022-11-09/20:09:28		Replace the value with mean, in capital-loss
+2022-11-09/20:09:28		Replace the value with mean, in hours-per-week
+2022-11-09/20:09:31		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/20:21:59		successfully apply the Label Encoding technique
+2022-11-09/20:21:59		successfully apply the Label Encoding technique
+2022-11-09/20:21:59		Applying the mean encoding on column workclass
+2022-11-09/20:21:59		Applying the mean encoding on column education
+2022-11-09/20:21:59		Applying the mean encoding on column marital-status
+2022-11-09/20:21:59		Applying the mean encoding on column occupation
+2022-11-09/20:21:59		Applying the mean encoding on column relationship
+2022-11-09/20:21:59		Applying the mean encoding on column race
+2022-11-09/20:21:59		Applying the mean encoding on column country
+2022-11-09/20:21:59		Replace the value with mean, in age
+2022-11-09/20:21:59		Replace the value with mean, in capital-gain
+2022-11-09/20:21:59		Replace the value with mean, in capital-loss
+2022-11-09/20:21:59		Replace the value with mean, in hours-per-week
+2022-11-09/20:22:01		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/20:55:29		successfully apply the Label Encoding technique
+2022-11-09/20:55:29		successfully apply the Label Encoding technique
+2022-11-09/20:55:29		Applying the mean encoding on column workclass
+2022-11-09/20:55:29		Applying the mean encoding on column education
+2022-11-09/20:55:29		Applying the mean encoding on column marital-status
+2022-11-09/20:55:29		Applying the mean encoding on column occupation
+2022-11-09/20:55:29		Applying the mean encoding on column relationship
+2022-11-09/20:55:29		Applying the mean encoding on column race
+2022-11-09/20:55:29		Applying the mean encoding on column country
+2022-11-09/20:55:29		Replace the value with mean, in age
+2022-11-09/20:55:29		Replace the value with mean, in capital-gain
+2022-11-09/20:55:29		Replace the value with mean, in capital-loss
+2022-11-09/20:55:29		Replace the value with mean, in hours-per-week
+2022-11-09/20:55:32		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/20:58:16		successfully apply the Label Encoding technique
+2022-11-09/20:58:16		successfully apply the Label Encoding technique
+2022-11-09/20:58:16		Applying the mean encoding on column workclass
+2022-11-09/20:58:16		Applying the mean encoding on column education
+2022-11-09/20:58:16		Applying the mean encoding on column marital-status
+2022-11-09/20:58:16		Applying the mean encoding on column occupation
+2022-11-09/20:58:16		Applying the mean encoding on column relationship
+2022-11-09/20:58:16		Applying the mean encoding on column race
+2022-11-09/20:58:16		Applying the mean encoding on column country
+2022-11-09/20:58:16		Replace the value with mean, in age
+2022-11-09/20:58:16		Replace the value with mean, in capital-gain
+2022-11-09/20:58:16		Replace the value with mean, in capital-loss
+2022-11-09/20:58:16		Replace the value with mean, in hours-per-week
+2022-11-09/20:58:18		Handle the imbalanced data using Borderline-SMOTE
+2022-11-09/21:06:48		successfully apply the Label Encoding technique
+2022-11-09/21:06:49		successfully apply the Label Encoding technique
+2022-11-09/21:06:49		Applying the mean encoding on column workclass
+2022-11-09/21:06:49		Applying the mean encoding on column education
+2022-11-09/21:06:49		Applying the mean encoding on column marital-status
+2022-11-09/21:06:49		Applying the mean encoding on column occupation
+2022-11-09/21:06:49		Applying the mean encoding on column relationship
+2022-11-09/21:06:49		Applying the mean encoding on column race
+2022-11-09/21:06:49		Applying the mean encoding on column country
+2022-11-09/21:06:49		Replace the value with mean, in age
+2022-11-09/21:06:49		Replace the value with mean, in capital-gain
+2022-11-09/21:06:49		Replace the value with mean, in capital-loss
+2022-11-09/21:06:49		Replace the value with mean, in hours-per-week
+2022-11-09/21:06:51		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/00:01:52		Error: could not convert string to float: 'state_gov'
+2022-11-10/00:03:31		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/00:03:31		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/00:03:31		Successfully drop the duplicates values
+2022-11-10/00:03:31		successfully apply the Label Encoding technique
+2022-11-10/00:03:31		successfully apply the Label Encoding technique
+2022-11-10/00:03:31		Applying the mean encoding on column workclass
+2022-11-10/00:03:31		Applying the mean encoding on column education
+2022-11-10/00:03:31		Applying the mean encoding on column marital-status
+2022-11-10/00:03:31		Applying the mean encoding on column occupation
+2022-11-10/00:03:31		Applying the mean encoding on column relationship
+2022-11-10/00:03:31		Applying the mean encoding on column race
+2022-11-10/00:03:31		Applying the mean encoding on column country
+2022-11-10/00:04:52		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/00:04:52		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/00:04:52		Successfully drop the duplicates values
+2022-11-10/00:04:52		successfully apply the Label Encoding technique
+2022-11-10/00:04:52		successfully apply the Label Encoding technique
+2022-11-10/00:04:52		Applying the mean encoding on column workclass
+2022-11-10/00:04:52		Applying the mean encoding on column education
+2022-11-10/00:04:52		Applying the mean encoding on column marital-status
+2022-11-10/00:04:52		Applying the mean encoding on column occupation
+2022-11-10/00:04:52		Applying the mean encoding on column relationship
+2022-11-10/00:04:52		Applying the mean encoding on column race
+2022-11-10/00:04:52		Applying the mean encoding on column country
+2022-11-10/00:04:52		Replace the value with mean, in age
+2022-11-10/00:04:52		Replace the value with mean, in capital-gain
+2022-11-10/00:04:52		Replace the value with mean, in capital-loss
+2022-11-10/00:04:52		Replace the value with mean, in hours-per-week
+2022-11-10/00:04:54		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/00:04:54		Successfully remove the outliers from data age
+2022-11-10/00:04:54		Successfully remove the outliers from data capital-gain
+2022-11-10/00:04:54		Successfully remove the outliers from data capital-loss
+2022-11-10/00:04:54		Successfully remove the outliers from data hours-per-week
+2022-11-10/00:04:54		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/00:04:54		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/00:04:54		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/00:04:54		Successfully remove the outliers from data country_mean_encoding
+2022-11-10/00:06:24		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/00:06:24		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/00:06:24		Successfully drop the duplicates values
+2022-11-10/00:06:24		successfully apply the Label Encoding technique
+2022-11-10/00:06:24		successfully apply the Label Encoding technique
+2022-11-10/00:06:24		Applying the mean encoding on column workclass
+2022-11-10/00:06:24		Applying the mean encoding on column education
+2022-11-10/00:06:24		Applying the mean encoding on column marital-status
+2022-11-10/00:06:24		Applying the mean encoding on column occupation
+2022-11-10/00:06:24		Applying the mean encoding on column relationship
+2022-11-10/00:06:24		Applying the mean encoding on column race
+2022-11-10/00:06:24		Applying the mean encoding on column country
+2022-11-10/00:06:24		Replace the value with mean, in age
+2022-11-10/00:06:24		Replace the value with mean, in capital-gain
+2022-11-10/00:06:24		Replace the value with mean, in capital-loss
+2022-11-10/00:06:24		Replace the value with mean, in hours-per-week
+2022-11-10/00:06:26		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/00:06:26		Successfully remove the outliers from data age
+2022-11-10/00:06:26		Successfully remove the outliers from data capital-gain
+2022-11-10/00:06:26		Successfully remove the outliers from data capital-loss
+2022-11-10/00:06:26		Successfully remove the outliers from data hours-per-week
+2022-11-10/00:06:26		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/00:06:26		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/00:06:26		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/00:06:26		Successfully remove the outliers from data country_mean_encoding
+2022-11-10/18:25:42		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:25:42		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:25:42		Successfully drop the duplicates values
+2022-11-10/18:25:42		successfully apply the Label Encoding technique
+2022-11-10/18:25:43		successfully apply the Label Encoding technique
+2022-11-10/18:25:43		Applying the mean encoding on column workclass
+2022-11-10/18:25:43		Applying the mean encoding on column education
+2022-11-10/18:25:43		Applying the mean encoding on column marital-status
+2022-11-10/18:25:43		Applying the mean encoding on column occupation
+2022-11-10/18:25:43		Applying the mean encoding on column relationship
+2022-11-10/18:25:43		Applying the mean encoding on column race
+2022-11-10/18:25:43		Applying the mean encoding on column country
+2022-11-10/18:25:43		Replace the value with mean, in age
+2022-11-10/18:25:43		Replace the value with mean, in capital-gain
+2022-11-10/18:25:43		Replace the value with mean, in capital-loss
+2022-11-10/18:25:43		Replace the value with mean, in hours-per-week
+2022-11-10/18:25:45		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:25:45		Successfully remove the outliers from data age
+2022-11-10/18:25:45		Successfully remove the outliers from data capital-gain
+2022-11-10/18:25:45		Successfully remove the outliers from data capital-loss
+2022-11-10/18:25:45		Successfully remove the outliers from data hours-per-week
+2022-11-10/18:25:45		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/18:25:45		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/18:25:45		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/18:25:45		Successfully remove the outliers from data country_mean_encoding
+2022-11-10/18:26:26		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:26:26		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:26:26		Successfully drop the duplicates values
+2022-11-10/18:26:26		successfully apply the Label Encoding technique
+2022-11-10/18:26:26		successfully apply the Label Encoding technique
+2022-11-10/18:26:26		Applying the mean encoding on column workclass
+2022-11-10/18:26:26		Applying the mean encoding on column education
+2022-11-10/18:26:26		Applying the mean encoding on column marital-status
+2022-11-10/18:26:26		Applying the mean encoding on column occupation
+2022-11-10/18:26:26		Applying the mean encoding on column relationship
+2022-11-10/18:26:26		Applying the mean encoding on column race
+2022-11-10/18:26:26		Applying the mean encoding on column country
+2022-11-10/18:26:26		Replace the value with mean, in age
+2022-11-10/18:26:26		Replace the value with mean, in capital-gain
+2022-11-10/18:26:26		Replace the value with mean, in capital-loss
+2022-11-10/18:26:26		Replace the value with mean, in hours-per-week
+2022-11-10/18:26:28		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:26:28		Successfully remove the outliers from data age
+2022-11-10/18:26:28		Successfully remove the outliers from data capital-gain
+2022-11-10/18:26:28		Successfully remove the outliers from data capital-loss
+2022-11-10/18:26:28		Successfully remove the outliers from data hours-per-week
+2022-11-10/18:26:28		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/18:26:28		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/18:26:28		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/18:26:28		Successfully remove the outliers from data country_mean_encoding
+2022-11-10/18:27:20		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:27:20		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:27:20		Successfully drop the duplicates values
+2022-11-10/18:27:20		successfully apply the Label Encoding technique
+2022-11-10/18:27:20		successfully apply the Label Encoding technique
+2022-11-10/18:27:20		Applying the mean encoding on column workclass
+2022-11-10/18:27:20		Applying the mean encoding on column education
+2022-11-10/18:27:20		Applying the mean encoding on column marital-status
+2022-11-10/18:27:20		Applying the mean encoding on column occupation
+2022-11-10/18:27:20		Applying the mean encoding on column relationship
+2022-11-10/18:27:20		Applying the mean encoding on column race
+2022-11-10/18:27:20		Applying the mean encoding on column country
+2022-11-10/18:28:11		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:28:11		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:28:11		Successfully drop the duplicates values
+2022-11-10/18:28:11		successfully apply the Label Encoding technique
+2022-11-10/18:28:11		successfully apply the Label Encoding technique
+2022-11-10/18:28:11		Applying the mean encoding on column workclass
+2022-11-10/18:28:11		Applying the mean encoding on column education
+2022-11-10/18:28:11		Applying the mean encoding on column marital-status
+2022-11-10/18:28:11		Applying the mean encoding on column occupation
+2022-11-10/18:28:11		Applying the mean encoding on column relationship
+2022-11-10/18:28:11		Applying the mean encoding on column race
+2022-11-10/18:28:11		Applying the mean encoding on column country
+2022-11-10/18:28:11		Replace the value with mean, in age
+2022-11-10/18:28:11		Replace the value with mean, in capital-gain
+2022-11-10/18:28:11		Replace the value with mean, in capital-loss
+2022-11-10/18:28:11		Replace the value with mean, in hours-per-week
+2022-11-10/18:28:40		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:28:40		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:28:40		Successfully drop the duplicates values
+2022-11-10/18:28:40		successfully apply the Label Encoding technique
+2022-11-10/18:28:40		successfully apply the Label Encoding technique
+2022-11-10/18:28:40		Applying the mean encoding on column workclass
+2022-11-10/18:28:40		Applying the mean encoding on column education
+2022-11-10/18:28:40		Applying the mean encoding on column marital-status
+2022-11-10/18:28:40		Applying the mean encoding on column occupation
+2022-11-10/18:28:40		Applying the mean encoding on column relationship
+2022-11-10/18:28:40		Applying the mean encoding on column race
+2022-11-10/18:28:40		Applying the mean encoding on column country
+2022-11-10/18:28:40		Replace the value with mean, in age
+2022-11-10/18:28:40		Replace the value with mean, in capital-gain
+2022-11-10/18:28:40		Replace the value with mean, in capital-loss
+2022-11-10/18:28:40		Replace the value with mean, in hours-per-week
+2022-11-10/18:28:42		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:29:36		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:29:36		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:29:36		Successfully drop the duplicates values
+2022-11-10/18:29:36		successfully apply the Label Encoding technique
+2022-11-10/18:29:36		successfully apply the Label Encoding technique
+2022-11-10/18:29:36		Applying the mean encoding on column workclass
+2022-11-10/18:29:36		Applying the mean encoding on column education
+2022-11-10/18:29:36		Applying the mean encoding on column marital-status
+2022-11-10/18:29:36		Applying the mean encoding on column occupation
+2022-11-10/18:29:36		Applying the mean encoding on column relationship
+2022-11-10/18:29:36		Applying the mean encoding on column race
+2022-11-10/18:29:36		Applying the mean encoding on column country
+2022-11-10/18:29:36		Replace the value with mean, in age
+2022-11-10/18:29:36		Replace the value with mean, in capital-gain
+2022-11-10/18:29:36		Replace the value with mean, in capital-loss
+2022-11-10/18:29:36		Replace the value with mean, in hours-per-week
+2022-11-10/18:29:38		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:30:27		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:30:28		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:30:28		Successfully drop the duplicates values
+2022-11-10/18:30:28		successfully apply the Label Encoding technique
+2022-11-10/18:30:28		successfully apply the Label Encoding technique
+2022-11-10/18:30:28		Applying the mean encoding on column workclass
+2022-11-10/18:30:28		Applying the mean encoding on column education
+2022-11-10/18:30:28		Applying the mean encoding on column marital-status
+2022-11-10/18:30:28		Applying the mean encoding on column occupation
+2022-11-10/18:30:28		Applying the mean encoding on column relationship
+2022-11-10/18:30:28		Applying the mean encoding on column race
+2022-11-10/18:30:28		Applying the mean encoding on column country
+2022-11-10/18:30:28		Replace the value with mean, in age
+2022-11-10/18:30:28		Replace the value with mean, in capital-gain
+2022-11-10/18:30:28		Replace the value with mean, in capital-loss
+2022-11-10/18:30:28		Replace the value with mean, in hours-per-week
+2022-11-10/18:30:30		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:30:30		Successfully remove the outliers from data age
+2022-11-10/18:30:30		Successfully remove the outliers from data capital-gain
+2022-11-10/18:30:30		Successfully remove the outliers from data capital-loss
+2022-11-10/18:30:30		Successfully remove the outliers from data hours-per-week
+2022-11-10/18:30:30		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/18:30:30		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/18:30:30		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/18:30:30		Successfully remove the outliers from data country_mean_encoding
+2022-11-10/18:31:32		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:31:32		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:31:32		Successfully drop the duplicates values
+2022-11-10/18:31:32		successfully apply the Label Encoding technique
+2022-11-10/18:31:32		successfully apply the Label Encoding technique
+2022-11-10/18:31:32		Applying the mean encoding on column workclass
+2022-11-10/18:31:32		Applying the mean encoding on column education
+2022-11-10/18:31:32		Applying the mean encoding on column marital-status
+2022-11-10/18:31:32		Applying the mean encoding on column occupation
+2022-11-10/18:31:32		Applying the mean encoding on column relationship
+2022-11-10/18:31:32		Applying the mean encoding on column race
+2022-11-10/18:31:32		Applying the mean encoding on column country
+2022-11-10/18:31:32		Replace the value with mean, in age
+2022-11-10/18:31:32		Replace the value with mean, in capital-gain
+2022-11-10/18:31:32		Replace the value with mean, in capital-loss
+2022-11-10/18:31:32		Replace the value with mean, in hours-per-week
+2022-11-10/18:31:34		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:35:09		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:35:09		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:35:09		Successfully drop the duplicates values
+2022-11-10/18:35:09		successfully apply the Label Encoding technique
+2022-11-10/18:35:09		successfully apply the Label Encoding technique
+2022-11-10/18:35:09		Applying the mean encoding on column workclass
+2022-11-10/18:35:09		Applying the mean encoding on column education
+2022-11-10/18:35:09		Applying the mean encoding on column marital-status
+2022-11-10/18:35:09		Applying the mean encoding on column occupation
+2022-11-10/18:35:09		Applying the mean encoding on column relationship
+2022-11-10/18:35:09		Applying the mean encoding on column race
+2022-11-10/18:35:10		Applying the mean encoding on column country
+2022-11-10/18:35:10		Replace the value with mean, in age
+2022-11-10/18:35:10		Replace the value with mean, in capital-gain
+2022-11-10/18:35:10		Replace the value with mean, in capital-loss
+2022-11-10/18:35:10		Replace the value with mean, in hours-per-week
+2022-11-10/18:35:12		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:35:12		Successfully remove the outliers from data age
+2022-11-10/18:35:12		Successfully remove the outliers from data capital-gain
+2022-11-10/18:35:12		Successfully remove the outliers from data capital-loss
+2022-11-10/18:35:12		Successfully remove the outliers from data hours-per-week
+2022-11-10/18:35:12		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/18:35:12		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/18:35:12		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/18:35:12		Successfully remove the outliers from data country_mean_encoding
+2022-11-10/18:42:21		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:42:21		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:42:21		Successfully drop the duplicates values
+2022-11-10/18:42:21		successfully apply the Label Encoding technique
+2022-11-10/18:42:21		successfully apply the Label Encoding technique
+2022-11-10/18:42:21		Applying the mean encoding on column workclass
+2022-11-10/18:42:21		Applying the mean encoding on column education
+2022-11-10/18:42:21		Applying the mean encoding on column marital-status
+2022-11-10/18:42:21		Applying the mean encoding on column occupation
+2022-11-10/18:42:21		Applying the mean encoding on column relationship
+2022-11-10/18:42:21		Applying the mean encoding on column race
+2022-11-10/18:42:21		Applying the mean encoding on column country
+2022-11-10/18:42:21		Replace the value with mean, in age
+2022-11-10/18:42:21		Replace the value with mean, in capital-gain
+2022-11-10/18:42:21		Replace the value with mean, in capital-loss
+2022-11-10/18:42:21		Replace the value with mean, in hours-per-week
+2022-11-10/18:42:23		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:42:23		Successfully remove the outliers from data age
+2022-11-10/18:42:23		Successfully remove the outliers from data capital-gain
+2022-11-10/18:42:24		Successfully remove the outliers from data capital-loss
+2022-11-10/18:42:24		Successfully remove the outliers from data hours-per-week
+2022-11-10/18:42:24		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/18:42:24		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/18:42:24		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/18:42:24		Successfully remove the outliers from data country_mean_encoding
+2022-11-10/18:46:53		Before drop the duplicates values, the shape of data is (26048, 13)
+2022-11-10/18:46:53		After drop the duplicates values, the shape of data is (22694, 13)
+2022-11-10/18:46:53		Successfully drop the duplicates values
+2022-11-10/18:46:53		successfully apply the Label Encoding technique
+2022-11-10/18:46:53		successfully apply the Label Encoding technique
+2022-11-10/18:46:53		Applying the mean encoding on column workclass
+2022-11-10/18:46:53		Applying the mean encoding on column education
+2022-11-10/18:46:53		Applying the mean encoding on column marital-status
+2022-11-10/18:46:53		Applying the mean encoding on column occupation
+2022-11-10/18:46:53		Applying the mean encoding on column relationship
+2022-11-10/18:46:53		Applying the mean encoding on column race
+2022-11-10/18:46:53		Applying the mean encoding on column country
+2022-11-10/18:46:53		Replace the value with mean, in age
+2022-11-10/18:46:53		Replace the value with mean, in capital-gain
+2022-11-10/18:46:53		Replace the value with mean, in capital-loss
+2022-11-10/18:46:53		Replace the value with mean, in hours-per-week
+2022-11-10/18:46:55		Handle the imbalanced data using Borderline-SMOTE
+2022-11-10/18:46:55		Successfully remove the outliers from data age
+2022-11-10/18:46:55		Successfully remove the outliers from data capital-gain
+2022-11-10/18:46:55		Successfully remove the outliers from data capital-loss
+2022-11-10/18:46:55		Successfully remove the outliers from data hours-per-week
+2022-11-10/18:46:55		Successfully remove the outliers from data workclass_mean_encoding
+2022-11-10/18:46:55		Successfully remove the outliers from data education_mean_encoding
+2022-11-10/18:46:55		Successfully remove the outliers from data race_mean_encoding
+2022-11-10/18:46:55		Successfully remove the outliers from data country_mean_encoding

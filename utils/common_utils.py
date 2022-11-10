@@ -1,3 +1,5 @@
+import pickle
+
 import yaml
 import os
 import shutil
@@ -71,6 +73,19 @@ def save_raw_local_data(data, new_data_path, header=False):
         data.to_csv(new_data_path, index=False, header=new_col)
     else:
         data.to_csv(new_data_path, index=False)
+
+def save_model(model, model_path:str):
+    """
+        **Method Name:** save_model\n
+        **Description:** This method helps to save the model in a particular local directory\n
+        **On Failure:** Raise Exception\n\n
+
+        :param model: moderl name
+        :param filename: filename
+        :return: model
+    """
+    with open(model_path, 'wb') as f:
+        pickle.dump(model, f)
 
 
 if __name__ == "__main__":

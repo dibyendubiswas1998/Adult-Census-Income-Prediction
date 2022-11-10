@@ -1,0 +1,43 @@
+2022-11-08/19:53:49		Impute the missing values with KNNImputer
+2022-11-08/19:53:49		Not get the Zero-Standard deviation columns []
+2022-11-08/19:53:49		Successfully drop the columns: []
+2022-11-08/19:53:49		Successfully drop the column salary
+2022-11-08/22:05:50		Save the KMeans_Elbow graph in preprocessing_data_dir/kmeans_elbow/KMeans_Elbow.PNG directory
+2022-11-08/22:05:50		Get the Number of clusters using KMeans Clustering, i.e. 2
+2022-11-08/22:06:57		Save the KMeans_Elbow graph in preprocessing_data/kmeans_elbow/KMeans_Elbow.PNG directory
+2022-11-08/22:06:57		Get the Number of clusters using KMeans Clustering, i.e. 2
+2022-11-08/22:09:26		Save the KMeans_Elbow graph in preprocessing_data/kmeans_elbow/KMeans_Elbow.PNG directory
+2022-11-08/22:09:26		Get the Number of clusters using KMeans Clustering, i.e. 2
+2022-11-08/22:09:27		Successfully create the clusters & labeled the cluster
+2022-11-08/22:16:58		Save the KMeans_Elbow graph in preprocessing_data/training/kmeans_elbow/KMeans_Elbow.PNG directory
+2022-11-08/22:16:58		Get the Number of clusters using KMeans Clustering, i.e. 2
+2022-11-08/22:16:59		Error: 'cluster_data_dir'
+2022-11-08/22:18:47		Save the KMeans_Elbow graph in preprocessing_data/training/kmeans_elbow/KMeans_Elbow.PNG directory
+2022-11-08/22:18:47		Get the Number of clusters using KMeans Clustering, i.e. 2
+2022-11-08/22:18:49		Successfully create the clusters & labeled the cluster
+2022-11-08/22:23:13		Save the KMeans_Elbow graph in preprocessing_data/kmeans_elbow/KMeans_Elbow.PNG directory
+2022-11-08/22:23:13		Get the Number of clusters using KMeans Clustering, i.e. 2
+2022-11-08/22:23:15		Successfully create the clusters & labeled the cluster
+2022-11-08/22:31:37		Save the KMeans_Elbow graph in preprocessing_data/kmeans_elbow/KMeans_Elbow.PNG directory
+2022-11-08/22:31:37		Get the Number of clusters using KMeans Clustering, i.e. 2
+2022-11-08/22:31:39		Successfully create the clusters & labeled the cluster
+2022-11-09/19:58:20		Successfully drop the column salary
+2022-11-09/19:58:20		Apply the train test split
+2022-11-09/19:59:13		Successfully drop the column salary
+2022-11-09/19:59:13		Apply the train test split
+2022-11-09/20:00:05		Successfully drop the column salary
+2022-11-09/20:00:05		Apply the train test split
+2022-11-09/20:00:32		Successfully drop the column salary
+2022-11-09/20:00:32		Apply the train test split
+2022-11-09/20:03:03		Successfully drop the column salary
+2022-11-09/20:03:03		Apply the train test split
+2022-11-09/20:09:31		Successfully drop the column salary
+2022-11-09/20:09:31		Apply the train test split
+2022-11-09/20:22:01		Successfully drop the column salary
+2022-11-09/20:22:01		Apply the train test split
+2022-11-09/20:55:32		Successfully drop the column salary
+2022-11-09/20:55:32		Apply the train test split
+2022-11-09/20:58:18		Successfully drop the column salary
+2022-11-09/20:58:18		Apply the train test split
+2022-11-09/21:06:51		Successfully drop the column salary
+2022-11-09/21:06:51		Apply the train test split
