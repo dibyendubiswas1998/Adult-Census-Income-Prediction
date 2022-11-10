@@ -1,0 +1,10 @@
+2022-11-10/21:49:42		read the test.csv data
+2022-11-10/21:49:42		Get the neumeric columns Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/21:49:42		Get the categoricals columns Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/21:49:42		Get the length of data (6513, 13)
+2022-11-10/21:49:42		Get the columns where missing value is present None
+2022-11-10/21:49:42		Apply the label encoding on salary & sex column
+2022-11-10/21:49:42		Apply the mean encoding techniques on ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country'] columns
+2022-11-10/21:49:42		replace the zero values with mean value ['age', 'capital-gain', 'capital-loss', 'hours-per-week'] columns

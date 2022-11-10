@@ -1,0 +1,6 @@
+2022-11-10/21:49:42		Get all Neumeric data type Index(['age', 'capital-gain', 'capital-loss', 'hours-per-week'], dtype='object')
+2022-11-10/21:49:42		Get all the Categorical data type: Index(['workclass', 'education', 'marital-status', 'occupation',
+       'relationship', 'race', 'sex', 'country', 'salary'],
+      dtype='object')
+2022-11-10/21:49:42		Get the length of data, rows:  6513, columns: 13
+2022-11-10/21:49:42		missing values is not present
