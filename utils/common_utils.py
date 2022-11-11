@@ -87,6 +87,19 @@ def save_model(model, model_path:str):
     with open(model_path, 'wb') as f:
         pickle.dump(model, f)
 
+def load_model(model_path):
+    """
+        **Method Name:** load_model\n
+        **Description:** This method helps to load thge model from model directory\n
+        **On Failure:** Raise Exception\n\n
+
+        :param model_path: model path
+        :return: model
+    """
+    for file in os.listdir(model_path):
+        with open(model_path + '/' + file + '/' + file + '.sav', 'rb') as f:
+            return pickle.load(f)
+
 
 if __name__ == "__main__":
     pass
