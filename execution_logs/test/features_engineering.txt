@@ -1,13 +1,52 @@
-2022-11-10/21:49:42		successfully apply the Label Encoding technique
-2022-11-10/21:49:42		successfully apply the Label Encoding technique
-2022-11-10/21:49:42		Applying the mean encoding on column workclass
-2022-11-10/21:49:42		Applying the mean encoding on column education
-2022-11-10/21:49:42		Applying the mean encoding on column marital-status
-2022-11-10/21:49:42		Applying the mean encoding on column occupation
-2022-11-10/21:49:42		Applying the mean encoding on column relationship
-2022-11-10/21:49:42		Applying the mean encoding on column race
-2022-11-10/21:49:42		Applying the mean encoding on column country
-2022-11-10/21:49:42		Replace the value with mean, in age
-2022-11-10/21:49:42		Replace the value with mean, in capital-gain
-2022-11-10/21:49:42		Replace the value with mean, in capital-loss
-2022-11-10/21:49:42		Replace the value with mean, in hours-per-week
+2022-11-11/19:18:33		successfully apply the Label Encoding technique
+2022-11-11/19:18:33		successfully apply the Label Encoding technique
+2022-11-11/19:18:33		Applying the mean encoding on column workclass
+2022-11-11/19:18:33		Applying the mean encoding on column education
+2022-11-11/19:18:33		Applying the mean encoding on column marital-status
+2022-11-11/19:18:33		Applying the mean encoding on column occupation
+2022-11-11/19:18:33		Applying the mean encoding on column relationship
+2022-11-11/19:18:33		Applying the mean encoding on column race
+2022-11-11/19:18:33		Applying the mean encoding on column country
+2022-11-11/19:18:33		Replace the value with mean, in age
+2022-11-11/19:18:33		Replace the value with mean, in capital-gain
+2022-11-11/19:18:33		Replace the value with mean, in capital-loss
+2022-11-11/19:18:33		Replace the value with mean, in hours-per-week
+2022-11-11/19:18:37		successfully apply the Label Encoding technique
+2022-11-11/19:18:37		successfully apply the Label Encoding technique
+2022-11-11/19:18:37		Applying the mean encoding on column workclass
+2022-11-11/19:18:37		Applying the mean encoding on column education
+2022-11-11/19:18:37		Applying the mean encoding on column marital-status
+2022-11-11/19:18:37		Applying the mean encoding on column occupation
+2022-11-11/19:18:37		Applying the mean encoding on column relationship
+2022-11-11/19:18:37		Applying the mean encoding on column race
+2022-11-11/19:18:37		Applying the mean encoding on column country
+2022-11-11/19:18:37		Replace the value with mean, in age
+2022-11-11/19:18:37		Replace the value with mean, in capital-gain
+2022-11-11/19:18:37		Replace the value with mean, in capital-loss
+2022-11-11/19:18:37		Replace the value with mean, in hours-per-week
+2022-11-11/19:20:42		successfully apply the Label Encoding technique
+2022-11-11/19:20:42		successfully apply the Label Encoding technique
+2022-11-11/19:20:42		Applying the mean encoding on column workclass
+2022-11-11/19:20:42		Applying the mean encoding on column education
+2022-11-11/19:20:42		Applying the mean encoding on column marital-status
+2022-11-11/19:20:42		Applying the mean encoding on column occupation
+2022-11-11/19:20:42		Applying the mean encoding on column relationship
+2022-11-11/19:20:42		Applying the mean encoding on column race
+2022-11-11/19:20:42		Applying the mean encoding on column country
+2022-11-11/19:20:42		Replace the value with mean, in age
+2022-11-11/19:20:42		Replace the value with mean, in capital-gain
+2022-11-11/19:20:42		Replace the value with mean, in capital-loss
+2022-11-11/19:20:42		Replace the value with mean, in hours-per-week
+2022-11-11/19:20:46		successfully apply the Label Encoding technique
+2022-11-11/19:20:46		successfully apply the Label Encoding technique
+2022-11-11/19:20:46		Applying the mean encoding on column workclass
+2022-11-11/19:20:46		Applying the mean encoding on column education
+2022-11-11/19:20:46		Applying the mean encoding on column marital-status
+2022-11-11/19:20:46		Applying the mean encoding on column occupation
+2022-11-11/19:20:46		Applying the mean encoding on column relationship
+2022-11-11/19:20:46		Applying the mean encoding on column race
+2022-11-11/19:20:46		Applying the mean encoding on column country
+2022-11-11/19:20:47		Replace the value with mean, in age
+2022-11-11/19:20:47		Replace the value with mean, in capital-gain
+2022-11-11/19:20:47		Replace the value with mean, in capital-loss
+2022-11-11/19:20:47		Replace the value with mean, in hours-per-week

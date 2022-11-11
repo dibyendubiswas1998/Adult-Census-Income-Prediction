@@ -1,7 +1,6 @@
-2022-11-09/20:55:32		Error: need to call fit or load_model beforehand
-2022-11-09/20:58:24		AUC for XGBoost:0.8378223157352341
-2022-11-09/20:58:25		AUC for RF:0.7842698010565198
-2022-11-09/20:58:25		XGBoost is the best model
-2022-11-09/21:06:57		AUC for XGBoost:0.8378223157352341
-2022-11-09/21:06:58		AUC for RF:0.7827474882861661
-2022-11-09/21:06:58		XGBoost is the best model
+2022-11-11/19:18:35		AUC for XGBoost:0.8051158557020831
+2022-11-11/19:18:37		AUC for RF:0.7661784401153958
+2022-11-11/19:18:37		XGBoost is the best model & save the model in model directory
+2022-11-11/19:20:45		AUC for XGBoost:0.8051158557020831
+2022-11-11/19:20:46		AUC for RF:0.7690387360343705
+2022-11-11/19:20:46		XGBoost is the best model & save the model in model directory

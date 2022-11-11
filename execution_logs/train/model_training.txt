@@ -1,0 +1,12 @@
+2022-11-11/19:18:33		Get the train data after validation
+2022-11-11/19:18:33		Get the test data after validation
+2022-11-11/19:18:33		drop the zero standard deviation columns
+2022-11-11/19:18:33		separate the x_train, y_train, x_test & y_test data
+2022-11-11/19:18:33		Impute the missing values (x_train & x_test data)
+2022-11-11/19:18:37		XGBoost is the best model
+2022-11-11/19:20:42		Get the train data after validation
+2022-11-11/19:20:42		Get the test data after validation
+2022-11-11/19:20:42		drop the zero standard deviation columns
+2022-11-11/19:20:42		separate the x_train, y_train, x_test & y_test data
+2022-11-11/19:20:43		Impute the missing values (x_train & x_test data)
+2022-11-11/19:20:46		XGBoost is the best model
