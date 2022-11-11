@@ -7,6 +7,10 @@ base:
 data_source:
   github_url: https://raw.githubusercontent.com/dibyendubiswas1998/Adult-Census-Income-Prediction/main/DATA/adult_new.csv
 
+# data
+data:
+    output_col: salary
+
 # it helps to store the raw data, train & test dataset.
 artifacts:
   artifacts_dir: artifacts # create the "artifacts" directory
@@ -18,12 +22,85 @@ artifacts:
     train_path: artifacts/processed_data/train.csv # save/load the train dataset
     test_path: artifacts/processed_data/test.csv # save/load the test dataset
 
+# features engineering:
+features_eng:
+  label_encoding:
+    salary_col:
+      col: salary
+      mapdct_salary_col: {'<=50k':0, '>50k':1}
+    sex_col:
+      col: sex
+      mapdct_sex_col: {'female':0, 'male':1}
+  mean_encoding:
+    mean_encoding_cols: ['workclass', 'education', 'marital-status', 'occupation', 'relationship', 'race', 'country']
+  replace_zero_values_cols: ['age', 'capital-gain', 'capital-loss', 'hours-per-week']
+  outliers_theshold: 3
+
+# data preProcessing
+preProcessing:
+  preprocessing_dir: preprocessing_data
+  kmeans_clustering:
+    training_dir: preprocessing_data
+    kmeans_elbow_dir: preprocessing_data/kmeans_elbow
+    kmeans_elbow_img_path: preprocessing_data/kmeans_elbow/KMeans_Elbow.PNG
+    cluster_data_dir: preprocessing_data/cluster_data
+    cluster_data_path: preprocessing_data/cluster_data/cluster.csv
+    cluster_label: cluster_label
+  drop_cols: ['', '']
+
+
+# ML Algorithms:
+ml_algo:
+  random_forest: # random forest algorithms
+    best_params: {"n_estimators":100, "criterion":'gini', "max_depth":2, "max_features":'auto'} # best params after hyperparameter tuning
+    grid_search_cv: {"n_estimators": [10, 50, 100, 130], "criterion": ['gini', 'entropy'],
+                               "max_depth": range(2, 4, 1), "max_features": ['auto', 'log2']} # apply hyperparameter tuning
+  xgboost:
+    best_params: {"learning_rate":0.01, "max_depth":5, "n_estimators":100} # best params after hyperparameter tuning
+    grid_search_cv: {learning_rate': [0.5, 0.1, 0.01, 0.001], 'max_depth': [3, 5, 10, 20], 'n_estimators': [10, 50, 100, 200]} # apply hyperparameter tuning
+
+
+# model:
+model:
+  model_dir: model # create/use the model directory
+  Kmeans_dir: model/KMeans # create/use the Kmeans_dir directory
+  Kmeans_path: model/KMeans/kmeans.sav # kmeans model path
+  random_forest_dir: model/RandomForest # create/use the Random Forest directory
+  random_forest_path: model/RandomForest/RandomForest.sav # Random Forest model path
+  xgboost_dir: model/XGBoost # create/use the XGBoost directory
+  xgboost_path: model/XGBoost/XGBoost.sav # XGBoost model path
+
+# related to predection data
+predection_data:
+  predection_data_dir: predection_data # create/use the "predection_data" directory
+  predection_data_path: predection_data/predection_data.csv # predection_data path
+
+
 # it helps to logs the informations.
 execution_logs:
   execution_logs_dir: execution_logs # create/use the "execution_log" directory
   training:
     train_dir: execution_logs/train # create/use the "train" directory
-    log_files:
+    log_files: # mention all the log files related to training
       file_operation: execution_logs/train/file_operation.txt # create/write/read the "file_operation.txt" file
-
-
+      raw_data_validation: execution_logs/train/raw_data_validation.txt # used to logs the details related the raw data
+      features_engineering: execution_logs/train/features_engineering.txt # used to logs the details related to features engineering steps
+      data_scaling: execution_logs/train/data_scaling.txt # used to logs the details related to the data scaling
+      pre_processing: execution_logs/train/pre_processing.txt # used to logs the details related to data preprocerssing
+      model_creation: execution_logs/train/model_creation.txt # used to logs the details related to model creatrion
+      find_best_model:  execution_logs/train/find_best_model.txt # used to logs the details related to find the best model
+      training_main_logs:  execution_logs/train/training_main_logs.txt # used to logs the details related to training
+      model_training: execution_logs/train/model_training.txt # used to logs the details related to model training
+  testing:
+    test_dir: execution_logs/test # create/use the "test" directory
+    log_files: # mention all the log files related to testing
+      file_operation: execution_logs/test/file_operation.txt # create/write/read the "file_operation.txt" file
+      raw_data_validation: execution_logs/test/raw_data_validation.txt # used to logs the details related the test raw data
+      features_engineering: execution_logs/test/features_engineering.txt # used to logs the details related to features engineering steps
+      data_scaling: execution_logs/test/data_scaling.txt # used to logs the details related to the data scaling for test data
+      pre_processing: execution_logs/test/pre_processing.txt # used to logs the details related to data preprocerssing for test data
+      testing_main_logs:  execution_logs/test/testing_main_logs.txt # used to logs the details related to testing
+  predection:
+    predection_dir: execution_logs/predection # create/use the "test" directory
+    log_files: # mention all the log files related to predection
+      predection_logs: execution_logs/predection/predection_logs.txt # used to log the details related predection
