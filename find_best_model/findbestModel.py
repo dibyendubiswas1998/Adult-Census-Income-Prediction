@@ -55,11 +55,19 @@ class FindBestModel:
 
             # Comparing the two models:
             if (self.random_forest_score < self.xgboost_score):
-                self.logger.log(self.file, "XGBoost is the best model")
+                self.xgboost_dir = self.config['model']['xgboost_dir'] # mention the directory
+                self.xgboost_path = self.config['model']['xgboost_path'] # mention the model path
+                common_utils.create_dir(dirs=[self.xgboost_dir]) # create the xgboost directory
+                common_utils.save_model(model=self.xgb, model_path=self.xgboost_path)  # save the model
+                self.logger.log(self.file, "XGBoost is the best model & save the model in model directory")
                 self.file.close()
                 return 'XGBoost', self.xgb
             else:
-                self.logger.log(self.file, "RandomForest is the best model")
+                self.random_forest_dir = self.config['model']['random_forest_dir']  # mention the directory
+                self.random_forest_path = self.config['model']['random_forest_path']  # mention the model path
+                common_utils.create_dir(dirs=[self.random_forest_dir])  # create the xgboost directory
+                common_utils.save_model(model=self.ran, model_path=self.random_forest_path)  # save the model
+                self.logger.log(self.file, "RandomForest is the best model & save the model in model directory")
                 self.file.close()
                 return 'RandomForest', self.ran
 
