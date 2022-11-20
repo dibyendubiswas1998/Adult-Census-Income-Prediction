@@ -5,8 +5,8 @@
 * The main goal of this project is to design and develop scalable end-to-end machine learning pipeline (CI/CD), and
 get best model which can easily predict whether a person has an income of more than 50K a year or not.
 
-### bout Data or Data Descriptions:
-**data link:** https://raw.githubusercontent.com/dibyendubiswas1998/Adult-Census-Income-Prediction/main/DATA/adult_new.csv <br>
+### About Data or Data Descriptions:
+**data link:** https://raw.githubusercontent.com/dibyendubiswas1998/Adult-Census-Income-Prediction/main/DATA/adult_new.csv <br><br>
 **Data Description**<br>
 * **age:** mention the age
 * **workclass:** mention workclass categories, like: private, govt., etc.
