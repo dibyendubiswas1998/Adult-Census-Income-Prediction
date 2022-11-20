@@ -1,32 +1,21 @@
-from load_and_split_data.load_split import load_split
-from training_raw_data_validation.rawdataValidation import RawDataValidation
+from model_training import ModelTraining
+from predection import Predection
 import utils.common_utils as common_utils
 import pandas as pd
-import argparse
 
-if __name__ == "__main__":
-    config = common_utils.read_params('params.yaml')
-    train_path = config['artifacts']['split_data']['train_path']
-    data = pd.read_csv(train_path, sep=',')
+if __name__ == '__main__':
+    config_path = 'params.yaml'
+    mt = ModelTraining(config_path=config_path)
+    prd = Predection(config_path=config_path)
 
-    args = argparse.ArgumentParser()
-    args.add_argument("--config", default="params.yaml")
-    parsed_args = args.parse_args()
+    mt.TrainingModel() # train the model
+    prd.Predection() # start predection
 
-    try:
-        # stages: load_and_split_data
-        lo = load_split(config_path=parsed_args.config)
-        lo.load_and_save_data()
-        lo.split_data()
+    config = common_utils.read_params(config_path=config_path)
+    data_path = config['predection_data']['predection_data_path']
 
-
-        # stages: training_raw_data_validation
-        rw = RawDataValidation(config_path=parsed_args.config)
-
-
-    except Exception as ex:
-        raise ex
-
+    data = pd.read_csv(data_path, sep=',')
+    print(data.head(10).T)
 
 
 
