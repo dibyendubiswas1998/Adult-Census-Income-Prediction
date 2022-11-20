@@ -17,3 +17,8 @@ flake8
 
 # webapp
 flask
+
+# others
+xgboost
+zipp
+scipy
