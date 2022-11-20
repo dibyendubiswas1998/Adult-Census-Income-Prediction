@@ -22,4 +22,12 @@ get best model which can easily predict whether a person has an income of more t
 * **country:** mention the countries.
 * **salary:** >50k;  <=50k.
 
+### Execute the Program:
+* **step 1:**
+  * pip install -r requirements.txt
 
+* **step 2:**
+  * python main.py
+
+### Get the Predicted data:
+[Predected data](predection_data/predection_data.csv)
